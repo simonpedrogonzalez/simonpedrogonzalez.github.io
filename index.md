@@ -3,10 +3,16 @@ layout: default
 title: Simón Pedro González
 ---
 
-# Simón Pedro González
-
-Fulbright Scholar (2024–26) & M.S. in Artificial Intelligence Student @ University of Utah 
-Software Engineer with experience in scientific computing, web platforms, and Unsupervised ML.
+<div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
+  <img src="/profile.jpg" alt="Simón Pedro González" style="width: 130px; border-radius: 10px; margin-right: 20px;" />
+  <div>
+    <h1 style="margin-bottom: 0;">Simón Pedro González</h1>
+    <p style="margin-top: 0.5rem;">
+      Fulbright Scholar (2024–26) • M.S. in Artificial Intelligence @ University of Utah<br>
+      Software Engineer with experience in scientific computing, web platforms, and unsupervised ML
+    </p>
+  </div>
+</div>
 
 ## About
 
