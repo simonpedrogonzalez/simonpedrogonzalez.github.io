@@ -5,8 +5,8 @@ title: Simón Pedro González
 
 # Simón Pedro González
 
-Fulbright Scholar (2024–26) • M.S. in AI @ University of Utah  
-Software Engineer • Scientific Software Developer • Researcher in Data Science  
+Fulbright Scholar (2024–26) & M.S. in Artificial Intelligence Student @ University of Utah 
+Software Engineer with experience in scientific computing, web platforms, and Unsupervised ML.
 
 ## About
 
