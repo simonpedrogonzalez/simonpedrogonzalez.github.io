@@ -23,4 +23,4 @@ My interests include anomaly detection, spatial data analysis, and reinforcement
 
 - Email: simon.pedro.g@gmail.com  
 - GitHub: [https://github.com/simonpedrogonzalez](https://github.com/simonpedrogonzalez)  
-- LinkedIn: [www.linkedin.com/in/simon-pedro-gonzalez-70990a21a](www.linkedin.com/in/simon-pedro-gonzalez-70990a21a)
+- LinkedIn: [https://www.linkedin.com/in/simon-pedro-gonzalez-70990a21a/](https://www.linkedin.com/in/simon-pedro-gonzalez-70990a21a/)
