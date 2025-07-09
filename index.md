@@ -4,7 +4,7 @@ title: Simón Pedro González
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 1.5rem;">
-  <img src="/profile.jpg" alt="Simón Pedro González" style="width: 130px; border-radius: 10px; margin-right: 20px;" />
+  <img src="/profile.png" alt="Simón Pedro González" style="width: 130px; border-radius: 10px; margin-right: 20px;" />
   <div>
     <h1 style="margin-bottom: 0;">Simón Pedro González</h1>
     <p style="margin-top: 0.5rem;">
