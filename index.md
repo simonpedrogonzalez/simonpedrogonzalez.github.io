@@ -9,25 +9,86 @@ title: Simón Pedro González
   <div style="flex: 1; min-width: 200px;">
     <h1 style="margin: 0 0 0.5rem 0;">Simón Pedro González</h1>
     <p style="margin: 0;">
-      Fulbright Scholar (2024–26) • M.S. in Artificial Intelligence @ University of Utah<br>
-      Software Engineer with experience in scientific computing, web platforms, and unsupervised ML
+      Fulbright Scholar (2024–26) • M.S. in Artificial Intelligence @ University of Utah, USA<br>
+      Software  Engineer with experience in scientific computing, web platforms, and unsupervised ML<br>
+      Bachelor in Computer Science (2022) @ National University of San Juan, Argentina<br>
+    </p>
+    <p>
+      <b>Contact:</b> &nbsp;
+      <b><a href="mailto:simon.pedro.g@gmail.com">simon.pedro.g@gmail.com</a></b> &nbsp; • &nbsp;
+      <b><a href="https://github.com/simonpedrogonzalez">GitHub</a></b> &nbsp; • &nbsp;
+      <b><a href="https://www.linkedin.com/in/simon-pedro-gonzalez-70990a21a">LinkedIn</a></b><br>
+      <b>CV</b>: &nbsp; <b><a href="/cv_simon_gonzalez_1.pdf">1 page</a></b> · <b><a href="/cv_simon_gonzalez_3.pdf">3 pages</a></b> &nbsp;
     </p>
   </div>
 </div>
 
 ## About
 
-I'm a software engineer and researcher from San Juan, Argentina, currently pursuing a Master's in Artificial Intelligence at the University of Utah.  
-My interests include anomaly detection, spatial data analysis, and reinforcement learning.
+- I'm a software engineer and researcher from Argentina, currently pursuing a Master's in Artificial Intelligence at the University of Utah as a Fulbright Scholar.
+- I have experience in scientific computing and unsupervised machine learning, with a focus on building data analysis tools for astronomy research.
+- I'm currently interested in open science initiatives, anomaly detection, spatial data analysis, and reinforcement learning.
 
-## CV
+## Projects
 
-[Download my 1 page CV (PDF)](/cv_simon_gonzalez_1.pdf)
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="/scludam-logo.png" alt="SCLUDAM logo" width="100" >
+  <div>
+    <h3 style="margin: 0;">SCLUDAM – Star CLUster Detection And Membership Estimation</h3>
+    <p style="margin: 4px 0 0;">
+      SCLUDAM is a Python package for fetching data from GAIA catalogues, detecting star clusters, and estimating cluster membership probabilities. <br>
+      <b>Goal</b>: Provide an accessible tool for detecting star clusters and estimating memberships from astrometric data.<br>
+      <b>My contribution</b>: Author.
+    </p>
+  </div>
+</div>
 
-[Download my 3 pages CV (PDF)](/cv_simon_gonzalez_3.pdf)
+<p>
+  <b><a href="https://pypi.org/project/scludam/">PyPI Package</a></b> •
+  <b><a href="https://simonpedrogonzalez.github.io/scludam-docs/readme.html">Docs</a></b> •
+  <b><a href="https://github.com/simonpedrogonzalez/scludam">Repo</a></b> •
+  <b><a href="/scludam_maci_english.pdf">Technical Paper</a></b> •
+  <b>Featured in <a href="https://ui.adsabs.harvard.edu/abs/2024BAAA...65..102A/abstract">Alejo, González & González. (2024)</a></b>
+</p>
 
-## Contact
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="/pyscan-logo.png" alt="pyscan-stats logo" width="100">
+  <div>
+    <h3 style="margin: 0;">pyscan-stats – Spatial Scan Statistics Library</h3>
+    <p style="margin: 4px 0 0;">
+      <b>pyscan-stats</b> is an extended fork of the 
+      <b><a href="https://github.com/michaelmathen/pyscan">pyscan</a></b> library by <b><a href="https://mmath.dev/">Michael Matheny</a></b>,
+      providing fast C++ spatial scan statistics for anomaly detection. The algorithms
+      were developed by <b><a href="https://users.cs.utah.edu/~jeffp/">Jeff M. Phillips</a></b>, <b><a href="https://mmath.dev/">Michael Matheny</a></b> and collaborators. <br>
+      <b>Goal</b>: make these useful algorithms easier to use and build upon. <br>
+      <b>My contribution</b>: New features: fast grid constructor & area-limited scanning &nbsp; • &nbsp; Updated deps, build system & examples &nbsp; • &nbsp; Python wheels & packaging.
+    </p>
+  </div>
+</div>
 
-- Email: simon.pedro.g@gmail.com  
-- GitHub: [https://github.com/simonpedrogonzalez](https://github.com/simonpedrogonzalez)  
-- LinkedIn: [https://www.linkedin.com/in/simon-pedro-gonzalez-70990a21a/](https://www.linkedin.com/in/simon-pedro-gonzalez-70990a21a/)
+<p>
+  <b><a href="https://pypi.org/project/pyscan-stats/">PyPI Package</a></b> •
+  <b><a href="https://mmath.dev/pyscan/">Docs</a></b> •
+  <b><a href="https://github.com/simonpedrogonzalez/pyscan">Repo</a></b> •
+  <b><a href="https://github.com/simonpedrogonzalez/pyscan-stats-resources">Examples</a></b> •
+  <b><a href="/dm_project_poster.pdf"> Data Mining Class Project</a></b>  on Pollution Data Analysis.
+</p>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="/raptor-logo.jpeg" alt="raptor-stats logo" width="80" style="border-radius: 100px; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;">raptor-stats – Raptor Zonal Statistics Library</h3>
+    <p style="margin: 4px 0 0;">
+      This section will be updated soon! <br>
+    </p>
+  </div>
+</div>
+<!-- 
+<p>
+  <b><a href="https://pypi.org/project/pyscan-stats/">PyPI Package</a></b> •
+  <b><a href="https://mmath.dev/pyscan/">Docs</a></b> •
+  <b><a href="https://github.com/simonpedrogonzalez/pyscan">Repo</a></b> •
+  <b><a href="https://github.com/simonpedrogonzalez/pyscan-stats-resources">Examples</a></b> •
+  <b><a href="/dm_project_poster.pdf"> Data Mining Class Project</a></b>  on Pollution Data Analysis.
+</p>
+ -->
