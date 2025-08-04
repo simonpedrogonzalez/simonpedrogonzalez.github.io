@@ -5,3 +5,8 @@ description: >-
 baseurl: ""
 url: "https://simonpedrog.github.io"
 theme: jekyll-theme-minimal
+sass:
+  style: compressed
+
+include:
+  - assets

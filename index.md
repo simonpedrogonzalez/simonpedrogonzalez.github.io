@@ -4,8 +4,8 @@ title: Simón Pedro González
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 1.5rem;">
-  <img src="/profile.png" alt="Simón Pedro González" style="width: 140px; border-radius: 10px; flex-shrink: 0;" />
-  
+  <img src="/profile.png" alt="Simón Pedro González" style="width: 240px; border-radius: 1000px; flex-shrink: 0;" />
+
   <div style="flex: 1; min-width: 200px;">
     <h1 style="margin: 0 0 0.5rem 0;">Simón Pedro González</h1>
     <p style="margin: 0;">
@@ -25,14 +25,17 @@ title: Simón Pedro González
 
 ## About
 
-- I'm a software engineer and researcher from Argentina, currently pursuing a Master's in Artificial Intelligence at the University of Utah as a Fulbright Scholar.
+- I'm a software engineer from Argentina, currently pursuing a Master's in Artificial Intelligence at the University of Utah as a Fulbright Scholar.
 - I have experience in scientific computing and unsupervised machine learning, with a focus on building data analysis tools for astronomy research.
 - I'm currently interested in open science initiatives, anomaly detection, spatial data analysis, and reinforcement learning.
+- Previously, I worked as a technical lead on web projects at <a href="https://www.linkedin.com/company/folcode/" target="_blank"> Folcode</a> and <a href="https://www.linkedin.com/company/bridgenext/" target="_blank">BridgeNext</a>.
 
 ## Projects
 
+---
+
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="/scludam-logo.png" alt="SCLUDAM logo" width="80" style="border-radius: 100px; margin-right: 20px;">
+  <img src="/scludam-logo.png" alt="SCLUDAM logo" width="120" style="border-radius: 100px; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;">SCLUDAM – Star CLUster Detection And Membership Estimation</h3>
     <p style="margin: 4px 0 0;">
@@ -51,8 +54,10 @@ title: Simón Pedro González
   <b>Featured in <a href="https://ui.adsabs.harvard.edu/abs/2024BAAA...65..102A/abstract" target="_blank">Alejo, González & González. (2024)</a></b>
 </p>
 
+---
+
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="/pyscan-logo.png" alt="pyscan-stats logo" width="82" style="border-radius: 100px; margin-right: 20px;">
+  <img src="/pyscan-logo.png" alt="pyscan-stats logo" width="120" style="border-radius: 100px; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;">pyscan-stats – Spatial Scan Statistics Library</h3>
     <p style="margin: 4px 0 0;">
@@ -74,9 +79,10 @@ title: Simón Pedro González
   <b><a href="/dm_project_poster.pdf"> Data Mining Class Project</a></b>  on Pollution Data Analysis.
 </p>
 
+---
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-<img src="/solar-explorer-logo.png" alt="solar-explorer logo" width="80" style="border-radius: 100px; margin-right: 20px; background-color: black;">
+<img src="/solar-explorer-logo.png" alt="solar-explorer logo" width="120" style="border-radius: 100px; margin-right: 20px; background-color: black;">
 <div>
     <h3 style="margin: 0;">Solar Explorer</h3>
     <p style="margin: 4px 0 0;">
@@ -89,9 +95,10 @@ title: Simón Pedro González
   <b><a href="https://github.com/simonpedrogonzalez/solar-explorer" target="_blank">Repo</a></b>
 </p>
 
+---
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="/raptor-logo.png" alt="raptor-stats logo" width="80" style="border-radius: 100px; margin-right: 20px;">
+  <img src="/raptor-logo.png" alt="raptor-stats logo" width="120" style="border-radius: 100px; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;">raptor-stats – Raptor Zonal Statistics Library</h3>
     <p style="margin: 4px 0 0;">
@@ -108,3 +115,5 @@ title: Simón Pedro González
   <b><a href="/dm_project_poster.pdf"> Data Mining Class Project</a></b>  on Pollution Data Analysis.
 </p>
  -->
+
+ ---
