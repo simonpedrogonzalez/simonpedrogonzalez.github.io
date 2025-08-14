@@ -39,7 +39,7 @@ title: Simón Pedro González
   <div>
     <h3 style="margin: 0;">SCLUDAM – Star CLUster Detection And Membership Estimation</h3>
     <p style="margin: 4px 0 0;">
-      SCLUDAM is a Python package for fetching data from GAIA catalogues, detecting star clusters, and estimating cluster membership probabilities. <br>
+      <b>SCLUDAM</b> is a Python package for fetching data from GAIA catalogues, detecting star clusters, and estimating cluster membership probabilities. <br>
       <b>Goal</b>: Provide an accessible tool for detecting star clusters and estimating memberships from astrometric data.<br>
       <b>My contribution</b>: Author.
     </p>
@@ -61,8 +61,8 @@ title: Simón Pedro González
   <div>
     <h3 style="margin: 0;">raptor-stats – Raptor Zonal Statistics Library</h3>
     <p style="margin: 4px 0 0;">
-    <b>raptor-stats</b> is a Python package for computing zonal statistics using Raptor (Raster + Vector) methods, which are more efficient at larger scales than standard raster methods such as masking. You can read more about the different approaches in this <b><a href="https://dl.acm.org/doi/10.14778/3352063.3352107" target="_blank">paper</a></b> by Singla, Eldawy, Alghamdi, and Mokbel. <br>
-    <b>Goal</b>: Provide fast zonal statistics methods for large raster and vector files. <br>
+    <b>raptor-stats</b> is a Python package for computing zonal statistics using Raptor (Raster + Vector) methods, which are more efficient at larger scales than standard raster methods such as masking. You can read more about the different approaches and benchmarks in this <b><a href="/mdml_final_report.pdf"> project report</a></b>.<br>
+    <b>Goal</b>: Provide fast zonal statistics methods for large raster and vector files.<br>
     <b>My contribution</b>: Author.
     </p>
   </div>
@@ -71,8 +71,7 @@ title: Simón Pedro González
 <p>
   <b><a href="https://pypi.org/project/raptor-stats/">PyPI Package</a></b> •
   <b><a href="https://simonpedrogonzalez.github.io/raptor-stats-docs/index.html">Docs</a></b> •
-  <b><a href="https://github.com/simonpedrogonzalez/raptor-stats">Repo</a></b> •
-  <b><a href="/mdml_final_report.pdf"> My Project</a></b> on Zonal Statistics.
+  <b><a href="https://github.com/simonpedrogonzalez/raptor-stats">Repo</a></b>
 </p>
 
  ---
