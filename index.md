@@ -57,6 +57,27 @@ title: Simón Pedro González
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="/raptor-logo.png" alt="raptor-stats logo" width="120" style="border-radius: 100px; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;">raptor-stats – Raptor Zonal Statistics Library</h3>
+    <p style="margin: 4px 0 0;">
+    <b>raptor-stats</b> is a Python package for computing zonal statistics using Raptor (Raster + Vector) methods, which are more efficient at larger scales than standard raster methods such as masking. You can read more about the different approaches in this <b><a href="https://dl.acm.org/doi/10.14778/3352063.3352107" target="_blank">paper</a></b> by Singla, Eldawy, Alghamdi, and Mokbel. <br>
+    <b>Goal</b>: Provide fast zonal statistics methods for large raster and vector files. <br>
+    <b>My contribution</b>: Author.
+    </p>
+  </div>
+</div>
+
+<p>
+  <b><a href="https://pypi.org/project/raptor-stats/">PyPI Package</a></b> •
+  <b><a href="https://simonpedrogonzalez.github.io/raptor-stats-docs/index.html">Docs</a></b> •
+  <b><a href="https://github.com/simonpedrogonzalez/raptor-stats">Repo</a></b> •
+  <b><a href="/mdml_final_report.pdf"> My Project</a></b> on Zonal Statistics.
+</p>
+
+ ---
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="/pyscan-logo.png" alt="pyscan-stats logo" width="120" style="border-radius: 100px; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;">pyscan-stats – Spatial Scan Statistics Library</h3>
@@ -65,7 +86,7 @@ title: Simón Pedro González
       <b><a href="https://github.com/michaelmathen/pyscan" target="_blank">pyscan</a></b> wrapper by <b><a href="https://mmath.dev/" target="_blank">Michael Matheny</a></b>,
       providing fast C++ spatial scan statistics for anomaly detection. The algorithms
       were developed by <b><a href="https://users.cs.utah.edu/~jeffp/" target="_blank">Jeff M. Phillips</a></b>, <b><a href="https://mmath.dev/" target="_blank">Michael Matheny</a></b> and collaborators. <br>
-      <b>Goal</b>: make these cool algorithms easier to use and build upon. <br>
+      <b>Goal</b>: Make these cool algorithms easier to use and build upon. <br>
       <b>My contribution</b>: &nbsp; Updated for new Python versions &nbsp; • &nbsp; Linux & Mac wheels & packaging &nbsp; • &nbsp; Cleaned and reorganized project &nbsp; • &nbsp; New features: fast grid constructor & area-limited scanning.
     </p>
   </div>
@@ -80,6 +101,7 @@ title: Simón Pedro González
 </p>
 
 ---
+
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
 <img src="/solar-explorer-logo.png" alt="solar-explorer logo" width="120" style="border-radius: 100px; margin-right: 20px; background-color: black;">
@@ -96,24 +118,3 @@ title: Simón Pedro González
 </p>
 
 ---
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="/raptor-logo.png" alt="raptor-stats logo" width="120" style="border-radius: 100px; margin-right: 20px;">
-  <div>
-    <h3 style="margin: 0;">raptor-stats – Raptor Zonal Statistics Library</h3>
-    <p style="margin: 4px 0 0;">
-      This section will be updated soon! <br>
-    </p>
-  </div>
-</div>
-<!-- 
-<p>
-  <b><a href="https://pypi.org/project/pyscan-stats/">PyPI Package</a></b> •
-  <b><a href="https://mmath.dev/pyscan/">Docs</a></b> •
-  <b><a href="https://github.com/simonpedrogonzalez/pyscan">Repo</a></b> •
-  <b><a href="https://github.com/simonpedrogonzalez/pyscan-stats-resources">Examples</a></b> •
-  <b><a href="/dm_project_poster.pdf"> Data Mining Class Project</a></b>  on Pollution Data Analysis.
-</p>
- -->
-
- ---
